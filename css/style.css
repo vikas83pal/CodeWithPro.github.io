@@ -226,8 +226,10 @@ footer{
     border-radius: 10px;
     cursor:pointer;
 }
+.blue-text {
+            color: blue;
+        }
 
-  
 
 .center{
     text-align: center;
